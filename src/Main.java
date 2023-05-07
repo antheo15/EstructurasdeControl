@@ -48,16 +48,16 @@ public class Main {
         var estacion = "Primavera";
         switch (estacion) {
             case "Verano":
-                System.out.println("Verano");
+                System.out.println("Estamos en Verano");
                 break;
             case "Otoño":
-                System.out.println("Otoño");
+                System.out.println("Estamos en Otoño");
                 break;
             case "Invierno":
-                System.out.println("Invierno");
+                System.out.println("Estamos en Invierno");
                 break;
             case "Primavera":
-                System.out.println("Primavera");
+                System.out.println("Estamos en Primavera");
                 break;
             default:
             System.out.println("estoy en default");
